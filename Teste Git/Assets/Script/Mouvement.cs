@@ -6,6 +6,7 @@ public class Mouvement : MonoBehaviour
 {
 
     public float speed;
+    public string teste;
 
     void Start()
     {
